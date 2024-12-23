@@ -5,4 +5,4 @@ Ek sasta assistant (because i dont have 5$ for OpenAI API ) else it would have b
 
 
 run this commands on your terminal <br>
-pip install SpeechRecognition pyttsx3 
+pip install SpeechRecognition pyttsx3 pyaudio openai
