@@ -25,8 +25,9 @@ def process(command):
 
     elif"shut up" in command.lower():
         speak("ari pup")      
-    elif"akshat " in command.lower():
-        speak("aap akshat aaryan")    
+    elif"open youtube" in command.lower():
+        webbrowser.open("https://www.youtube.com/")
+        speak("okay")    
     listen()
      
 
